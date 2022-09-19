@@ -1,0 +1,52 @@
+header {
+    background-color: #f5f5f5;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;
+}
+
+h2 {
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+div {
+    text-align: center;
+}
+
+.img-box {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+img {
+    width: auto;
+    height: 100%;
+}
+
+.img {
+    height: 300px;
+    margin: 5px;
+}
+
+.main-page{
+    display: flex;
+    height: 400px
+}
+
+.description{
+    width: 40%;
+    height: 400px;
+    align-items: center;
+}
+
+.div-main-image{
+    width:60%;
+    height:400px
+}
+
+.main-image{
+    height:350px;
+}
